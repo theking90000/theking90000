@@ -14,6 +14,17 @@ I have a strong experience in:
 - 🐧 Linux systems
 - 🖥️ Server management
 
+## 📂 Projects
+
+Most of my projects are private, but I'm working on making them public.
+Other projects are stored on my [private gitea server](https://git.theking90000.be), [gitlab](https://gitlab.com/theking90000), and [framagit](https://framagit.org/theking90000).
+
+Here are some of my notable (latest!) projects:
+- [discord-us](https://github.com/UwUDev/discord-us/tree/improvements) - A discord-based 'unlimited' storage solution
+- [SpotifySTATS](https://github.com/theking90000/SpotifySTATS) - A Spotify statistics application using Spotify GDPR data.
+
+_And plenty more unfinished/garbage projects  (mostly private)!_
+
 ## 🔧 Technologies & Tools
 
 ### 💻 Programming languages
@@ -48,15 +59,3 @@ I have a strong experience in:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-
-
-## 📂 Projects
-
-Most of my projects are private, but I'm working on making them public.
-Other projects are stored on my [private gitea server](https://git.theking90000.be), [gitlab](https://gitlab.com/theking90000), and [framagit](https://framagit.org/theking90000).
-
-Here are some of my notable (latest!) projects:
-- [discord-us](https://github.com/UwUDev/discord-us/tree/improvements) - A discord-based 'unlimited' storage solution
-- [SpotifySTATS](https://github.com/theking90000/SpotifySTATS) - A Spotify statistics application using Spotify GDPR data.
-
-_And plenty more unfinished/garbage projects  (mostly private)!_
