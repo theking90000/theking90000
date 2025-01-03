@@ -59,4 +59,4 @@ Here are some of my notable (latest!) projects:
 - [discord-us](https://github.com/UwUDev/discord-us/tree/improvements) - A discord based 'unlimited' storage solution
 - [SpotifySTATS](https://github.com/theking90000/SpotifySTATS) - A Spotify statistics application using Spotify GDPR data.
 
-_Feel free to check out my repositories for more projects!_
+_And plenty more unfinished/garbage projects  (mostly private)!_
