@@ -11,6 +11,8 @@ I have a strong experience in:
 - 🎮 Minecraft plugin development
 - 🌐 Full-stack application development
 - 🔍 Reverse engineering of web applications
+- 🐧 Linux systems
+- 🖥️ Server management
 
 ## 🔧 Technologies & Tools
 
@@ -20,3 +22,14 @@ I have a strong experience in:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📂 Projects
+
+Most of my projects are currently private, but i'm working on making them public.
+Others projects are stored on my [private gitea server](https://git.theking90000.be), [gitlab](https://gitlab.com/theking90000) and [framagit](https://framagit.org/theking90000).
+
+Here are some of my notable (latest!) projects:
+- [discord-us](https://github.com/UwUDev/discord-us/tree/improvements) - A discord based 'unlimited' storage solution
+- [SpotifySTATS](https://github.com/theking90000/SpotifySTATS) - A Spotify statistics application using Spotify GDPR data.
+
+_Feel free to check out my repositories for more projects!_
