@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Martin, a 20-year-old student from Belgium. I'm currently studying engineering at the FPMs (Faculté Polytechnique de Mons).
+I'm Martin, a 21-year-old student from Belgium. I'm currently studying engineering at the FPMs (Faculté Polytechnique de Mons).
 
 ## 📂 Projects
 
