@@ -1,6 +1,14 @@
 # Hi 👋
 
-I'm Martin, a 21-year-old student from Belgium. I'm currently studying engineering at the FPMs (Faculté Polytechnique de Mons).
+I'm Martin, an engineering student at the FPMs (Faculté Polytechnique de Mons), Belgium.
+
+## Interests
+- Cloud computing, networks and systems
+- Minecraft modding and plugin development
+- Reverse engineering of software and other stuff
+- Transit systems
+- Science and history
+- AI/ML, I guess?
 
 ## 📂 Projects
 
