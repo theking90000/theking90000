@@ -18,7 +18,7 @@ Nowadays, tutorials no longer precede the projects. My engineering studies have 
 - Reverse engineering of software and other stuff
 - Transit systems
 - Science and history
-- AI/ML, I guess?
+<!--- AI/ML, I guess?-->
 
 ## 📂 Projects
 
