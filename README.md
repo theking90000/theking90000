@@ -1,6 +1,16 @@
 # Hi 👋
 
-I'm Martin, an engineering student at the FPMs (Faculté Polytechnique de Mons), Belgium.
+I'm Martin, an engineering student at the FPMs (Faculté Polytechnique de Mons) in Belgium.
+
+I've been experimenting with software for a few years. I started as a self-taught developer before the AI era. I created my own things based on my interests and publicly available resources. This led me to web development (HTML/PHP), Minecraft modding (Java), and Discord bots (using JavaScript).
+
+At some point, I started relying less and less on tutorials and began creating things at the intersection of what I could "copy". This self-taught approach led me to some projects that I'm not quite "proud" of and that, looking at the bigger picture, were really bad.
+
+The good part is that this essentially taught me two important lessons: first, that sustained effort doesn't always produce good results; and second, to see problems not as impossible to solve (though they sometimes can be), but as interesting things to spend time on.
+
+Nowadays, tutorials no longer precede the projects. My engineering studies have also given me the ability to engage with a wide variety of topics. I've stopped working on guided projects and now focus on things that I genuinely find interesting. I work independently, using documentation, source code, experiments, and now generative AI.
+
+<!--Long time ago I thought that gen-AI was bad because I though software value ...-->
 
 ## Interests
 - Cloud computing, networks and systems
