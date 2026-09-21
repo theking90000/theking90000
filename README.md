@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Martin, an engineering student at the FPMs (Faculté Polytechnique de Mons) in Belgium.
+I'm Martin, an engineering student at ULB (Université Libre de Bruxelles) in Belgium.
 
 I've been experimenting with software for a few years. I started as a self-taught developer before the AI era. I created my own things based on my interests and publicly available resources. This led me to web development (HTML/PHP), Minecraft modding (Java), and Discord bots (using JavaScript).
 
