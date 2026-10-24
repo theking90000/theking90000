@@ -20,15 +20,24 @@ Nowadays, tutorials no longer precede the projects. My engineering studies have 
 - Science and history
 <!--- AI/ML, I guess?-->
 
-## 📂 Projects
+## Projects
 
-Most of my projects are private, but I'm working on making them public.
-Other projects are stored on my [private gitea server](https://git.theking90000.be), [gitlab](https://gitlab.com/theking90000), and [framagit](https://framagit.org/theking90000).
+I mostly use GitHub to share and showcase my work. Here are some of my notable projects:
 
-Here are some of my notable (latest!) projects:
-- [mclib2](https://github.com/theking90000/mclib2) - A java toolkit/framework for minecraft plugin development
-- [discord-us](https://github.com/UwUDev/discord-us/tree/improvements) - A discord-based 'unlimited' storage solution
-- [SpotifySTATS](https://github.com/theking90000/SpotifySTATS) - A Spotify statistics application using Spotify GDPR data.
+- **[WD40-S3](https://github.com/theking90000/WD40-S3)** : A modular, high-performance S3-compatible object storage system built in Rust, currently using Discord webhooks as its storage backend. It features asynchronous streaming, encryption, random access, and interchangeable storage backends.
+- **[server-setup](https://github.com/theking90000/server-setup)** : A declarative infrastructure configuration for deploying and managing a fleet of servers using NixOS and Colmena.
+- **[drone-control](https://github.com/theking90000/drone-control)** : A Linux-based system for controlling multiple Ryze Tello drones (university group project).
 
-_And plenty more unfinished/garbage projects  (mostly private)!_
+There are plenty of other, sometimes rather *random*, projects on my GitHub profile. Feel free to explore!
 
+## Stack
+
+I've spent countless hours working with **Java, TypeScript, Rust, and Python**. These are the languages I'm most comfortable with, but I've also worked with many others.
+
+I don't particularly identify with any single programming language or framework. I see them as tools for solving problems, and I prefer choosing them based on what I'm trying to build.
+
+I've also worked with various frameworks and libraries, though there are obviously many I haven't explored (yet). Having learned to program on my own, long before generative AI became widely available, I'm quite comfortable with RTFM (*Read the Fucking Manual*), reading source code, and figuring things out as I go.
+
+Something I particularly enjoy nowadays is going back to first principles: understanding how common frameworks, abstractions, or architectures work and occasionally reimplementing them myself, even when perfectly good solutions already exist.
+
+Not necessarily because I need to, but because it's fun, and because understanding *why* something works often teaches me much more than simply knowing *how* to use it.
